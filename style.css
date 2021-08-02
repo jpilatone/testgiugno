@@ -1,0 +1,11 @@
+div.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
+div.img1 {
+    width: 100px;
+    height: 50px;
+    background-color: grey;
+
+}
